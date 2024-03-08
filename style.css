@@ -1,0 +1,142 @@
+
+body {
+    width: 100vw;
+    border: 3px solid #4a91d8;
+    height: auto;
+  }
+#freelancer
+{
+    color:orange;
+}
+.containerfluid
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.navbar-nav
+{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 1.5vw;
+}
+#s
+{
+    
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    gap: 0.5vw;
+    position: relative;
+
+}
+.bright{
+    width: 500px;
+    height: 500px;
+}
+#search
+{
+    color:aqua;
+    border: 1px solid aqua;
+    padding: 2px;
+    width:150px;
+}
+.srch:hover
+{
+    color: aqua;
+}
+
+
+#drop
+{
+    position:absolute;
+}
+
+#works:hover,#signup:hover,#login:hover
+{
+    color:orange
+}
+#a
+{
+    font-size:x-small;
+    background-color: white;
+}
+#p
+{
+    font-size: 100px;
+    font-family:cursive;
+    font-weight: bolder;
+    color: orange;
+    font-size: 5vw;
+}
+#ps
+{
+    font-size: 2vw;
+}
+#form1
+{
+    
+    size: 10vw;
+    font-size: 1vw;
+}
+#r
+{
+    padding: 100px;
+    width: 100%;
+    height: 800px;
+}
+.skills
+{
+    background-color: grey;
+    color: white;
+}
+
+.skills {
+    text-decoration: none;
+    background-color: lightgray;
+    transition: background-color 0.3s; 
+    border-radius: 10px;
+  }
+
+  /* Hover effect */
+  .skills:hover {
+    background-color:gray; 
+    color: white;
+  }
+
+#bot{
+   padding: 20px;
+}
+#bottle
+{
+    width: max-content;
+    height: max-content;
+}
+footer
+{
+    color: white;
+    background-color:midnightblue;
+}
+.colu{
+    padding: 20px;
+
+}
+.l{
+    color: Grey;
+}
+#ic{
+    padding: 20px;
+    color:white;
+}
+.l:hover
+{
+    color:white
+}
+.ico
+{
+    color: aliceblue;
+    font-size: 2rem; 
+}
